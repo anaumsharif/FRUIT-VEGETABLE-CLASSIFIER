@@ -1,0 +1,7 @@
+0 Class 1-Apple
+1 Class 2-Broccoli
+2 Class 3-Grape
+3 Class 4-Lemon
+4 Class 5-Mango
+5 Class 6-Orange
+6 Class 7-Strawberry
